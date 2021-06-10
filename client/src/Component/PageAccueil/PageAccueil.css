@@ -1,0 +1,58 @@
+.zoom {
+    height:30px;
+    display: flex;
+    justify-content: space-around;
+
+    }
+    .zoom p {
+    text-align:center;
+    justify-content: space-between;
+    margin-right: 0.05%;
+    margin-left: 4%;
+    margin-top: 4%;
+
+    }
+    .zoom img {
+    width:180px;
+    height:267px;
+    -webkit-transition: all 1s ease; /* Safari et Chrome */
+    -moz-transition: all 1s ease; /* Firefox */
+    -ms-transition: all 1s ease; /* Internet Explorer 9 */
+    -o-transition: all 1s ease; /* Opera */
+    transition: all 1s ease;
+    box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25), -5px -5px 30px 7px rgba(0,0,0,0.22);
+
+    
+    }
+    .zoom img:hover {
+    width:300px;
+    height:400px;
+    -webkit-transform:scale(1); /* Safari et Chrome */
+    -moz-transform:scale(1); /* Firefox */
+    -ms-transform:scale(1); /* Internet Explorer 9 */
+    -o-transform:scale(1); /* Opera */
+    transform:scale(1);
+    } 
+
+
+    .form-inline
+    {
+margin-left: 10%;
+
+    }
+
+.navbar navbar-expand-lg navbar-light bg-light{
+
+    
+    width: 150%;
+    margin-right: 11%;
+    margin-left: -5%;
+    margin-top: -19%;
+}
+
+
+
+
+
+
+

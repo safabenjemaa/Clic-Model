@@ -1,0 +1,38 @@
+.liensNav{
+
+    color : rgb(109, 108, 108);
+    text-decoration: none;
+    margin-top:20px;
+
+}
+
+
+h6{
+
+    font-size: 18px;
+
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+
+   color: rgb(207,181,59) ; 
+}
+
+.form-inline
+{
+    margin-left: 60%   !important;
+}
+
+
+
+
+.bot {
+
+    /* color:red; */
+    /* margin-left: 60%   !important; */
+}
+
+..MuiAvatar-colorDefault{
+
+    margin-right: 10%;
+}

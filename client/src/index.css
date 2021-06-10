@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Georgia');
+
+body {
+  font-family: 'Georgia', cursive;
+}
+
+
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  margin-top: 0px !important;
+}
+
+.ReactModal__Content.ReactModal__Content--after-open {
+  width: 30%;
+  height: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 9%;
+}

@@ -1,0 +1,18 @@
+.MuiTypography-h6 {
+
+    font-size: 5.25rem !important;
+}
+
+
+
+.MuiDialogContentText-root {
+
+    font-size: 100% !important;
+
+}
+
+.MuiDialog-container {
+
+    margin-right: -73% !important;
+    height: 93% !important; 
+}
